@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ yang
+- 👋 Hi, I’m @ young
 - 👀 I’m interested in python
 - 🌱 I’m currently learning coding
-- 💞️ 
+- 💞️ I love music video games
 - 📫 
 
 <!---
